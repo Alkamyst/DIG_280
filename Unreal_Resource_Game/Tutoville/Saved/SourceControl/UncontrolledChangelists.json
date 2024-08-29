@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Cube_Blueprint.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Maps/Main.umap",
+				"C:/Users/logan/Documents/Unreal Projects/Tutoville/Content/Maps/Main.umap"
+			]
+		}
+	]
+}
