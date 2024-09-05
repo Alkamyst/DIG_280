@@ -5,8 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Cube_Blueprint.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Maps/Main.umap",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/General/BP_Camera_Pawn.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/General/BP_GameMode.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IA_Move_Camera_By_Key.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IMP_TutoVille.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IA_Rotate_Camera_By_Key.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IA_Mouse_Control.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IA_Strafe_Camera_By_Key.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IA_Zoom.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Buildings/BP_Building.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/General/BP_Building_Manager.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IA_Build.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Materials/M_Red.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Materials/M_Green.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Buildings/E_Building_State.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Materials/M_Red1.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Materials/M_White.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Inputs/IA_Mouse_Zoom.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/DIG_280/Unreal_Resource_Game/Tutoville/Content/Cube_Blueprint.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Tutoville/Content/Maps/Main.umap"
 			]
 		}
