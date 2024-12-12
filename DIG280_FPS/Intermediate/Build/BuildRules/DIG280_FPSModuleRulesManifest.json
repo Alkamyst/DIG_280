@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\DIG280_FPS\\Intermediate\\Source\\DIG280_FPS.Build.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\DIG280_FPS\\Intermediate\\Source\\DIG280_FPS.Target.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\DIG280_FPS\\Intermediate\\Source\\DIG280_FPSClient.Target.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\DIG280_FPS\\Intermediate\\Source\\DIG280_FPSEditor.Target.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\DIG280_FPS\\Intermediate\\Source\\DIG280_FPSServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

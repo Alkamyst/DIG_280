@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\logan\\documents\\unreal projects\\dig_280\\dig280_fps\\intermediate\\source\\dig280_fps.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\logan\\documents\\unreal projects\\dig_280\\dig280_fps\\intermediate\\build\\win64\\x64\\dig280_fps\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\logan\\documents\\unreal projects\\dig_280\\dig280_fps\\intermediate\\build\\win64\\x64\\unrealgame\\development\\dig280_fps\\definitions.dig280_fps.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

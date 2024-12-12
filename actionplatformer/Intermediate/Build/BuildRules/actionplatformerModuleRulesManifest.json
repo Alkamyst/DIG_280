@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\actionplatformer\\Intermediate\\Source\\actionplatformer.Build.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\actionplatformer\\Intermediate\\Source\\actionplatformer.Target.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\actionplatformer\\Intermediate\\Source\\actionplatformerClient.Target.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\actionplatformer\\Intermediate\\Source\\actionplatformerEditor.Target.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\DIG_280\\actionplatformer\\Intermediate\\Source\\actionplatformerServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

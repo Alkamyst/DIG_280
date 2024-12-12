@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\logan\\documents\\unreal projects\\dig_280\\actionplatformer\\intermediate\\source\\actionplatformer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\logan\\documents\\unreal projects\\dig_280\\actionplatformer\\intermediate\\build\\win64\\x64\\actionplatformer\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\logan\\documents\\unreal projects\\dig_280\\actionplatformer\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\actionplatformer\\definitions.actionplatformer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

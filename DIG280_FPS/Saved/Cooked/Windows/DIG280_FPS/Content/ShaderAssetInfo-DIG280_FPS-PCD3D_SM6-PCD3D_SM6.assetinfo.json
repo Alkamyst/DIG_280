@@ -1,0 +1,670 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "1D710B0080AEB4CEE94DC67DEB33292996AFC87D",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FFCD9E0132340989A95B1CEE5DDF45AFE15B6604",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B866B107C44F67A521D153D436B4FC21DA8DA38D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6016CE081DD4529D0697294041DA92B02B30CED1",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A211E70811AC8CD3EF407B1F3D695212F05C49E2",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheNightmare/AlbinoMat"
+			]
+		},
+		{
+			"ShaderMapHash": "7DA24909887A4619C58D99D851A44AC8BAC756EB",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "54A2800A32A8B511FFED9ABAFA2BBBC4D1E34BA7",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "9626A50AC8953125714D6A639225FE1BAD8855FC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "9BD4D40B08A176AAE5AD8B1EF694EAA1E56384BC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "351C9A0DAA5C47986C77EF822E504548BC749023",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D186B20DD5E070717E754DA109A71DCCA6E6D99E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "2B5BC90D877F42260617C82C33A23BB228B7C903",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "7EADE6110B0A42E0E6D19791EC277B00F3676A96",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4D7212123C07711C637C768151573B80ACD0A1AE",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheTerrorBringer/AlbedoMat"
+			]
+		},
+		{
+			"ShaderMapHash": "28109313FA9233F645BC06667983DA315F32DE69",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E50F4D1445708FBD4FBC9F65E3CF43D418E21C6C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "947DAF1549EB434C499593670B85D891912114F7",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "6D4922161B58711269E9D139D6575B2382299927",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "926E4918E53F0756EFFB47C4AB57B88913703221",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2F65F919B9065B1E88C00A09D5227109A1B8EDAB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8F8DE51AD48E68894CA7DD0E26B7B501B520A2F7",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "0E2C361B3D1DA2F3E0A4ECC86431FE3BE7173F44",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "FC6DCF22E8672BEAA9EC41CCBF6DB956168BDA36",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "A89E8224A674E119B248781361340178FFD9B588",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "913B3929179FBFA8D7864BE6F3FB87C7E22667DC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "75DE2A2DDD17AF18174DF964E4F1CAB4EE1E7704",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA6FCC2D8EE443926ACC6B9DCD280A0C60104CCB",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "115F172E8E1F85567F1003953A46E93649A9D550",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "F4F7362E82E1202067DDFE4D8CFB8770D78C638E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "83DE912EEF6E93FA3D611AD9E3D1854715B3F13A",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "9910C02EE082D28215DE5EEC5F8BF5DCD1134899",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "066901348FFB6E1F493B2ACE5A92565EA046BAFF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8F0362373820811F8598D40A2C889C34AE30378F",
+			"Assets": [
+				"/Game/Models/Luigi/cb_cha02_body_m_mat_001",
+				"/Game/Models/Luigi/cb_cha02_skin_m_mat_001"
+			]
+		},
+		{
+			"ShaderMapHash": "20A7A13EADF0E05EF23DA3852D5CBFED2C86C22F",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "997FEF4033E1FB5CED0A6F4F20E050C003399CB4",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "D8048742D125EB9A7FF67FD0CE77E561CAC3757B",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "67EA0045398D1819615AB302FC94078DA8E07C1F",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "4AD8B1457A920FC206BBE72EA55B2EDA5B4D34AE",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheSoulEater/GreenMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5A4AA54B8A7528D3919A7800EAFA7644ABBC257E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "8D1FDB4B322890399615F6E535F6EE35A058E55C",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "B6A88A4DB3E02228E523910E133B0E97D0B1ED87",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "913FA54E879A352525B1A103840552280AFDA837",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "899DC04EA333CFB8E32C93C48A377A9BA20A9C13",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "79DE154F9711350EE95DFA2115A6748A2ED36AB3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E6A31F4FC5F98BEE488A68B5F8079113CA94DC84",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "5D76594F373E251588DEBE18A60F2C1AC289FAFD",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "A8095B52437CB4298E77F26DB1E6C060ADC70443",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheUsurper/BlueMat"
+			]
+		},
+		{
+			"ShaderMapHash": "ECE2C85271E91100A8A23442BB605FE45EC22A74",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "94C7C3530EC986DD44C33B6D06A3F998E371A2A0",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "46597B545D7EC2EAC3CC4150886823D395EE1A2C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "B3A31955584EF34C694C8634384D78742AC0875B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "5F963157A3AEA7D0A7FDD9F43D95A4462DB76FF5",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E9E3F8580CE64EF7A9AA5CFEB576BC29537153F8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FF646B64898B91C00B77D57E66612DFAD21E47B1",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2FC950656B542F667A7669709D44CF8D008D4B6A",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "8ADCAC6FBA8735F2571AFA06AA4180B9A80CB98E",
+			"Assets": [
+				"/Game/Models/Star/Material_065_713E77D_c_bmp"
+			]
+		},
+		{
+			"ShaderMapHash": "795DC06F016B10ABB16265DDE02894DE88AA2316",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "71F51172D495F1A022381210ED5B99DAF124500F",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheSoulEater/BlueMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheSoulEater/PurpleMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheSoulEater/RedMat"
+			]
+		},
+		{
+			"ShaderMapHash": "AB6F8776E3F56AF5C608015520249E777AE1EBC0",
+			"Assets": [
+				"/Game/Models/Door/Material_002",
+				"/Game/Models/Level/Material",
+				"/Game/Models/Level/Material_001",
+				"/Game/Models/M_Block",
+				"/Game/Models/M_Elevator",
+				"/Game/Models/Mario/Material_109_HAIR_png",
+				"/Game/Models/Mario/Material_110_WHITE_png",
+				"/Game/Models/Mario/Material_111_WHITE_png",
+				"/Game/Models/Mario/Material_112_HAIR_png",
+				"/Game/Models/Mario/Material_113_RED_png",
+				"/Game/Models/Mario/Material_114_RED_png",
+				"/Game/Models/Mario/Material_115_BLUE_png",
+				"/Game/Models/Mario/Material_116_BLACK_png",
+				"/Game/Models/Mario/Material_117_WHITE_png",
+				"/Game/Models/Mario/Material_118_BLUE_png",
+				"/Game/Models/Mario/Material_119_BLACK_png",
+				"/Game/Models/Mario/Material_120_WHITE_png",
+				"/Game/Models/Mario/Material_121_BLACK_png",
+				"/Game/Models/Mario/Material_121_SKIN_png",
+				"/Game/Models/Mario/Material_121_WHITE_png",
+				"/Game/Models/Mario/Material_122_BLACK_png",
+				"/Game/Models/Mario/Material_123_BLACK_png",
+				"/Game/Models/Platform/Material",
+				"/Game/Models/Platform/Material_001",
+				"/Game/Models/Platforms/Material",
+				"/Game/Models/Platforms/Material_001",
+				"/Game/Models/Tower/Material",
+				"/Game/Models/Tower/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "8B472A773F670113DD7252A30D5D999D362D402D",
+			"Assets": [
+				"/Game/FPWeapon/Materials/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7DE4717D2D5FA0D67DF19A23C383404856C3B0CA",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B8F33F80424143D827768388DAE95D2FE435B1BB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "33088A8200E28D42A11D0802B6494B17A179C540",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "B057EA82826DA656A1005B0C330713C1B7ECF3F2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA53A383B4F3BBA0EC50C45B4705F5B6AD0D0126",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C4073D865AB7E511627C851E325AFBB51A401D71",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6DFF6889D27BFF29F82277D5DB0DA653AB2D42C8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7DF82A8B7FE4F19993BC0F6D68DF2BCC768EC5DC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "AEEBC58F1471892C572897D53CB4663CE56E926F",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0F6AD79066CA3A4663227FF7C78469F846C8CE35",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "086EF192EDC4A4C1877368E9F0B7509A41D510C4",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05503293415B166F15A9E20B553EE44731E1D084",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1975BE93F42DB0EACA8F3228516BBA54DB34EBDC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45552F943D5E1FC79F8E545D1681B527FD6E8174",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "490D409457484ABA71A557CA38D508F24418E05A",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheNightmare/DarkBlueMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheNightmare/GreenMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheNightmare/RedMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5961F7946FD741663FF88A56291B2CE015894FB4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "02C7C296DD060E8A777FF7BDDE762FE1E4B4EA5F",
+			"Assets": [
+				"/Game/Models/Luigi/cab_cha02_eye_m_mat_001",
+				"/Game/Models/Luigi/cb_cha02_blow_m_mat_001",
+				"/Game/Models/Luigi/cb_cha02_mouth_m_mat_001"
+			]
+		},
+		{
+			"ShaderMapHash": "E454CAA3CEC1EE71C72D9D6FF36B2101C184D0D6",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A9789DA92C9E4AE3D210C62F4DE064A6D2EEC507",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F107EFAF494254A34FBB710611064DF0258976F8",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "40BF9AB1631EA5A7DFA85C0319E522CB23758A4C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "02EEA5B358663D4AF534E5CE5D58B5788FB5411C",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "91876DB657A8CC7C219E6A9B2F5DEF37CC88C33E",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "62391BB917C44B7FD1ADCC74BA40591099B28B1C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "56A6A7C17840639A93DE79E501F35E98F6B0F244",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C458D1C44AFD280A5927DA2A1A29017619D7BE9E",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E04638C6570EB5945223B9F7612514B73A6E7399",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "70BBC9C655CC7D58201B561CCEDD9485C1D5356C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D5F210C9E8BBFE0CF086B293410F6A5AF0B7420F",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "7308CFD19DA7A428D558C55E64E14B0617F654AC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0742B8D542E5B07AAB75269F8B999D346E22F507",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "310D31D7F853185872B2387A6E0A656FFAC237DD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "E9107FDA8F20BFF298D710D71F2C32297AB077D0",
+			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "85655FE01E21415C4644676F7C8B119EC41A0AA8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "991C4DE211842BE5214D6805A07F08FD457351CD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1639E8E562666E49BABA51D5F3D2E4E9C55F5344",
+			"Assets": [
+				"/Game/Models/Skybox/Material_001",
+				"/Game/Models/Star/Material_063_3ED452ED_c_bmp"
+			]
+		},
+		{
+			"ShaderMapHash": "1686BCED415389C8255D92A566CEC3C504EDEA49",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/StageSM"
+			]
+		},
+		{
+			"ShaderMapHash": "BAE4A9EFB5B22A1E69E2D06BC9807E723976D3BD",
+			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "5EFAF7EF6964EBF0573B64ED8FE4DF36F7FBE89E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "5E1BCEF0CCD2AA225868F7E2F40FE5AD969B250F",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "89E01CF3B047D2ED2F7DD7212B08CA0AF0B87199",
+			"Assets": [
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheTerrorBringer/BlueMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheTerrorBringer/GreenMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheTerrorBringer/RedMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheUsurper/AlbinoMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheUsurper/BlackMat",
+				"/Game/FourEvilDragonsPBR/Materials/DragonTheUsurper/RedMat"
+			]
+		},
+		{
+			"ShaderMapHash": "F6A494F537C4E306F81EC8C39BC1B3AE491EC112",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "AAD5B2F559E5998CF4146D4D884666A4C9682AF9",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "1F618AFE3B6BBBAEAF21A00A7788570BE5F40DE9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		}
+	]
+}
